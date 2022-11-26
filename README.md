@@ -1,1 +1,1 @@
-Checkout the live site at https://www.instamania.netlify.app
+Checkout the live site at https://www.instamina.netlify.app
